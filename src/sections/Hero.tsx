@@ -89,7 +89,7 @@ const Hero = () => {
             {/* Social links */}
             <div className="flex items-center justify-center md:justify-start gap-4 mt-6">
               <a
-                href="https://github.com/prafful095"
+                href="https://github.com/Praful095"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-white/5 hover:bg-red-500/20 transition-all duration-300 group"

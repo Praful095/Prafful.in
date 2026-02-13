@@ -29,7 +29,7 @@ const projects = [
     icon: ShoppingCart,
     color: "from-red-500/20 to-orange-500/20",
     borderColor: "border-red-500/30",
-    github: "https://github.com/prafful095",
+    github: "https://github.com/Praful095",
     live: "#",
   },
   {
@@ -41,7 +41,7 @@ const projects = [
     icon: Mic,
     color: "from-green-500/20 to-teal-500/20",
     borderColor: "border-green-500/30",
-    github: "https://github.com/prafful095",
+    github: "https://github.com/Praful095",
     live: "#",
   },
 ];
@@ -125,7 +125,7 @@ const Projects = () => {
           style={{ transitionDelay: "0.4s" }}
         >
           <a
-            href="https://github.com/prafful095"
+            href="https://github.com/Praful095"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-full border border-gray-700 text-white hover:border-red-500 hover:bg-red-500/10 transition-all duration-300 group"

@@ -12,7 +12,7 @@ import {
 const socialLinks = [
   {
     name: "GitHub",
-    url: "https://github.com/prafful095",
+    url: "https://github.com/Praful095",
     icon: Github,
   },
   {
