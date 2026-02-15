@@ -30,7 +30,7 @@ const projects = [
     color: "from-green-500/20 to-teal-500/20",
     borderColor: "border-green-500/30",
     github: "https://github.com/Praful095",
-    live: "#https://interview-buddy-ai-mu.vercel.app/",
+    live: "https://interview-buddy-ai-mu.vercel.app/",
   },
   {
     id: 3,
