@@ -17,23 +17,11 @@ const projects = [
     icon: Sparkles,
     color: "from-purple-500/20 to-blue-500/20",
     borderColor: "border-purple-500/30",
-    github: "hhttps://ai-vacation-planner-phi.vercel.app",
-    live: "#",
+    github: "https://github.com/Praful095",
+    live: "https://ai-vacation-planner-phi.vercel.app",
   },
   {
     id: 2,
-    title: "Microservices E-Commerce",
-    description:
-      "Scalable Golang microservices backend featuring HTTP API, gRPC communication, and stateful notification queue. Secured with JWT & RBAC, deployed on Kubernetes with Prometheus monitoring.",
-    tags: ["Go", "gRPC", "Kubernetes", "JWT", "Prometheus", "Nginx"],
-    icon: ShoppingCart,
-    color: "from-red-500/20 to-orange-500/20",
-    borderColor: "border-red-500/30",
-    github: "https://github.com/Praful095",
-    live: "#",
-  },
-  {
-    id: 3,
     title: "PrepMate - AI Interview Platform",
     description:
       "Full-stack mock interview assistant using React and Gemini API with real-time AI feedback and dynamic question generation. Features VAPI voice-enabled interactions and automated performance summaries.",
@@ -42,7 +30,19 @@ const projects = [
     color: "from-green-500/20 to-teal-500/20",
     borderColor: "border-green-500/30",
     github: "https://github.com/Praful095",
-    live: "#",
+    live: "#https://interview-buddy-ai-mu.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Microservices E-Commerce",
+    description:
+      "Scalable Golang microservices backend featuring HTTP API, gRPC communication, and stateful notification queue. Secured with JWT & RBAC, deployed on Kubernetes with Prometheus monitoring.",
+    tags: ["Go", "gRPC", "Kubernetes", "JWT", "Prometheus", "Nginx"],
+    icon: ShoppingCart,
+    color: "from-red-500/20 to-orange-500/20",
+    borderColor: "border-red-500/30",
+    github: "https://github.com/Praful095",
+    live: "https://github.com/Praful095",
   },
 ];
 
